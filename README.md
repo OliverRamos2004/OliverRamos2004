@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Oliver Ramos!  
+# Hello! I'm Oliver Ramos!  
 
 ## 🚀 About Me  
 I'm a **Computer Science major** and aspiring **Developer** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
@@ -13,7 +13,7 @@ I'm a **Computer Science major** and aspiring **Developer** passionate about bui
 I'm currently working on:  
 ✅ **Journal Website** – A personal task manager with a weather API and calendar feature.  
 ✅ **Barber Booking Website** – A platform to showcase my work and manage appointments.  
-✅ **Python Algorithms & Data Structures** – Improving problem-solving skills.  
+✅ **Python Algorithms & Data Structures** – Improving problem-solving skills. 
 
 ## 📚 Learning & Exploring  
 - **Full-Stack Development** (Flask, React, SQLite)  
@@ -21,7 +21,7 @@ I'm currently working on:
 - **Technical Interview Prep & Internships**  
 
 ## 🎯 Goals for 2025  
-- Land a **software development internship** in Austin, TX.  
+- Land a **internship** related to my field of study in Austin, TX.  
 - Develop **portfolio-worthy web projects**.  
 - Improve my **problem-solving & algorithm skills**.  
 - Contribute to **open-source projects**.  

@@ -4,7 +4,7 @@
 I'm a **Computer Science major** and aspiring **Data Analyst** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
 
 - 🎓 **Senior at Wabash College** (Graduating December 2025)  
-- 💻 **Tech Enthusiast** SQL | Python | C | HTML + CSS|  
+- 💻 **Tech Enthusiast** SQL | Python | C | Web Dev |  
 - 🎨 **Aspiring Data analyst**  
 - 🥁 **Drummer & Music Enthusiast**  
 - ✂️ **Barber in my free time**  

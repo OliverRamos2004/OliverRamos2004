@@ -11,17 +11,16 @@ I'm a **Computer Science major** and aspiring **Data Analyst** passionate about 
 
 ## 🔨 Projects & Interests  
 I'm currently working on:  
-✅ **Clinic Intake System** – Designing a bilingual patient application and database for my senior capstone..  
-✅ **Barber Booking Website** – A platform to showcase my work and manage appointments.  
+✅ **Clinic Intake System** – Designing a bilingual patient application and database for my senior capstone.  
+✅ **Personal-Site** – To showcase my development journey, design experiments, and side projects, blending code, creativity, and storytelling.
 ✅ **Python Algorithms & Data Structures** – Improving problem-solving skills. 
 
 ## 📚 Learning & Exploring  
 - **Full-Stack Development** (Flask, React, SQL)  
-- **Game Development & Concept Art** 🎮  
+- **Data Analytics** 🎮  
 - **Technical Interview Prep & Internships**  
 
-## 🎯 Goals for 2026 
-- Land a **internship** related to my field of study in Austin, TX.  
+## 🎯 Goals for 2026  
 - Develop **portfolio-worthy web projects**.  
 - Improve my **problem-solving & algorithm skills**.  
 - Contribute to **open-source projects**.  

@@ -1,11 +1,10 @@
 # Hello! I'm Oliver Ramos!  
 
 ## 🚀 About Me  
-I'm a **Computer Science major** and aspiring **Data Analyst** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
+I'm a **Computer Science major** at **Wabash College** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
 
 - 🎓 **Senior at Wabash College** (Graduating December 2025)  
-- 💻 **Tech Enthusiast** SQL | Python | C | Web Dev |  
-- 🎨 **Aspiring Data analyst**  
+- 💻 **Tech Enthusiast** SQL | Python | C | Web Dev |   
 - 🥁 **Drummer & Music Enthusiast**  
 - ✂️ **Barber in my free time**  
 
@@ -26,7 +25,7 @@ I'm currently working on:
 - Contribute to **open-source projects**.  
 
 ## 📬 Let's Connect!  
-- 🏠 **Portfolio (Coming Soon!)**  
+- 🏠 **Portfolio [Personal site](https:www.oliverramos.vercel.app)**  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/oliverramos1)  
 - 📧 **Email:** [oliver78660@gmail.com](mailto:oliver78660@gmail.com)  
 - 🏀 **Fun Fact:** I play drums, cut hair, and love vintage fashion.  

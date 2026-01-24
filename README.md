@@ -1,21 +1,24 @@
 # Hello! I'm Oliver Ramos!  
 
 ## 🚀 About Me  
-I'm a **Computer Science major** at **Wabash College** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
+Newly graduate at **Wabash College** with a degree in **Computer Science** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
 
-- 🎓 **Senior at Wabash College** (Graduating December 2025)  
-- 💻 **Tech Enthusiast** SQL | Python | C | Web Dev |   
+- 🎓 **New grad from Wabash College** (December 2025)  
+- 💻 **Tech Enthusiast** SQL | Python | Data Analysis | Web Dev |   
 - 🥁 **Drummer & Music Enthusiast**  
 - ✂️ **Barber in my free time**  
 
 ## 🔨 Projects & Interests  
-I'm currently working on:  
-✅ **Clinic Intake System** (SQL + TS) – Designing a bilingual patient application and database for my senior capstone.
+few of my projects:  
+✅ **Clinic Intake System** (SQL + TS) – A bilingual patient application and database for the Montgomery County Free Clinic.
 ✅ **Personal-Site** (Astro, TailwindCSS) – To showcase my development journey, design experiments, and side projects, blending code, creativity, and storytelling.
 ✅ **Python Algorithms & Data Structures** – Improving problem-solving skills. 
 
+Currently working on:
+✅ **Proessional website for Green Valley Storage LCC.** (Astro, TailwindCSS) - A professional, static, 5-page website using web development frameworks
+
 ## 📚 Learning & Exploring  
-- **Full-Stack Development** (Flask, React, SQL)  
+- **Full-Stack Development**  
 - **Data Analytics**   
 - **Technical Interview Prep & Internships**  
 

@@ -9,7 +9,7 @@ Newly graduate at **Wabash College** with a degree in **Computer Science** passi
 - ✂️ **Barber in my free time**  
 
 ## 🔨 Projects & Interests  
-few of my projects:  
+A few of my projects:  
 ✅ **Clinic Intake System** (SQL + TS) – A bilingual patient application and database for the Montgomery County Free Clinic.
 ✅ **Personal-Site** (Astro, TailwindCSS) – To showcase my development journey, design experiments, and side projects, blending code, creativity, and storytelling.
 ✅ **Python Algorithms & Data Structures** – Improving problem-solving skills. 

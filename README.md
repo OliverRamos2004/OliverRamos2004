@@ -13,13 +13,15 @@ A few of my projects:
 ✅ **Clinic Intake System** (SQL + TS) – A bilingual patient application and database for the Montgomery County Free Clinic.
 ✅ **Personal-Site** (Astro, TailwindCSS) – To showcase my development journey, design experiments, and side projects, blending code, creativity, and storytelling.
 ✅ **Python Algorithms & Data Structures** – Improving problem-solving skills. 
+✅ **Cloud-Hosted Local Business Sites** - Getting involved with local business while putting my web development skills to use
+
 
 Currently working on:
-✅ **Proessional website for Green Valley Storage LCC.** (Astro, TailwindCSS) - A professional, static, 5-page website using web development frameworks
+✅ **Looking for my next big tech project** To really push myself and expand my skillset!
 
 ## 📚 Learning & Exploring  
 - **Full-Stack Development**  
-- **Data Analytics**   
+- **AI Workflows and Fundamentals**   
 - **Technical Interview Prep & Internships**  
 
 ## 🎯 Goals for 2026  
@@ -28,7 +30,7 @@ Currently working on:
 - Contribute to **open-source projects**.  
 
 ## 📬 Let's Connect!  
-- 🏠 **Portfolio [Personal site](https:www.oliverramos.vercel.app)**  
+- 🏠 **Portfolio [Personal site](https:www.oliverramos.dev)**  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/oliverramos1)  
 - 📧 **Email:** [oliver78660@gmail.com](mailto:oliver78660@gmail.com)  
 - 🏀 **Fun Fact:** I play drums, cut hair, and love vintage fashion.  

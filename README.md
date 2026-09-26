@@ -1,11 +1,11 @@
-# Hello! I'm Oliver Ramos!  
+# Hi, I'm Oliver Ramos!  
 
 ## 🚀 About Me  
-Newly graduate at **Wabash College** with a degree in **Computer Science** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
+2026 graduate at **Wabash College** with a degree in **Computer Science** passionate about building projects that solve real-world problems. I enjoy learning new technologies, improving my coding skills, and working on creative side projects.  
 
-- 🎓 **New grad from Wabash College** (December 2025)  
-- 💻 **Tech Enthusiast** SQL | Python | Data Analysis | Web Dev |   
-- 🥁 **Drummer & Music Enthusiast**  
+- 🎓 **New grad from Wabash College** (May 2026)  
+- 💻 **Tech Enthusiast** Web Design | Cloud Computing | Back-End | AI & LLMs
+- 🥁 **Drummer & Music Enthusiast**   
 - ✂️ **Barber in my free time**  
 
 ## 🔨 Projects & Interests  
@@ -17,7 +17,8 @@ A few of my projects:
 
 
 Currently working on:
-✅ **Looking for my next big tech project** To really push myself and expand my skillset!
+✅ **MatchCut
+✅ **YOSI-Archive E-commerce site
 
 ## 📚 Learning & Exploring  
 - **Full-Stack Development**  
